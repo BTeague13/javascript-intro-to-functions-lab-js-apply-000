@@ -18,6 +18,6 @@ function logWhisper(string) {
   console.log(spy.toLowerCase());
 }
 
-function sayHiToGrandma(string) {
+function sayHiToGrandma(hello) {
   return string.toLowerCase()
 }

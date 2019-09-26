@@ -19,6 +19,6 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  const spy = "Hello";
+  
   return string.toLowerCase()
 }
